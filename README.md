@@ -2,7 +2,7 @@
 
 This repository contains code for paper "[On Minimax Optimality of GANs for Robust Mean Estimation][paper]" (AISTATS 2020).
 
-[paper]: https://cs.uwaterloo.ca/~k77wu/aistats2020.pdf
+[paper]: https://cs.uwaterloo.ca/~k77wu/paper/aistats2020.pdf
 
 We implemented f-GAN, MMD-GAN (with Gaussian kernel) and Wasserstein GAN (with Euclidean norm as ground cost). These models are tested under Huber's contamination model.
 
